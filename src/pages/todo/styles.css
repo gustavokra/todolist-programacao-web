@@ -1,0 +1,8 @@
+.todo {
+    box-sizing: content-box;
+    padding: 3%;
+}
+
+hr {
+    width: 50%;
+}
