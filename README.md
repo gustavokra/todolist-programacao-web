@@ -1,5 +1,5 @@
 # Tarefa todo list  / Programação Web
-O objetivo esse projeto se trata de uma atividade feita para aprender programação web usando React Js.
+Esse projeto se trata de uma atividade feita na matéria de Programação Web usando React Js.
 Nesse projeto foi desenvolvido tabs para seleção de páginas, sendo elas:
  - Home, com explicações do que é um todo list.
  - Todo list.
